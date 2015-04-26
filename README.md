@@ -1,2 +1,2 @@
 # hello-world
-Just a place to store stuff
+Just a place to store stuff.
